@@ -6,7 +6,7 @@ one-octave keyboard, and the sculpture plays a randomly-generated, on-the-fly
 composition, using the entered notes as a seed.
 
 I was responsible for implementing the programs on the computer (controls the
-sound; Python) and microcontroller (controls the lights; Arduino), both of
+sound; Python) and microcontroller (controls the lights; Arduino/C++), both of
 which live inside the Ark.
 
 This is only one piece to a larger project by [BlockchainLabs](
