@@ -9,3 +9,5 @@ I was responsible for implementing the programs on the computer (controls the
 sound; Python) and microcontroller (controls the lights; Arduino), both of
 which live inside the Ark.
 
+This is only one piece to a larger project by [BlockchainLabs](
+https://www.blockchainlabs.ai).
