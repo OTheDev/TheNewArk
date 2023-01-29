@@ -9,6 +9,6 @@ I was responsible for implementing the programs on the computer (controls the
 sound; Python) and microcontroller (controls the lights; Arduino/C++), both of
 which live inside the Ark.
 
-This is only one piece to a larger project by [BlockchainLabs](
+This is only one piece of a larger project by [BlockchainLabs](
 https://www.blockchainlabs.ai). The sound samples and the music logic are by
 [Patrick Davies](https://www.facebook.com/patrickdaviesmusic).
