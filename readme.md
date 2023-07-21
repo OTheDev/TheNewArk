@@ -2,7 +2,7 @@
 
 [The New Ark](https://www.artcandie.com/project-new-ark-director-jacq) is an 
 interactive sculpture created by the artist, Director Jacq. Users visit a
-[site](https://www.thenewark.art), enter any sequence of 12 unique notes from a
+site, enter any sequence of 12 unique notes from a
 one-octave keyboard, and the sculpture plays a randomly-generated, on-the-fly
 composition, using the entered notes as a seed.
 
